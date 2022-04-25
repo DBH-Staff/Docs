@@ -34,8 +34,14 @@ googleAnalytics = "UA-PROPERTY_ID"
   name = 'Staff News'
   url = '/news'
   weight = 6
-
-
+[[menu.main]]
+  name = 'Staff Timeline'
+  url = '/time'
+  weight = 6
+[[menu.main]]
+  name = 'Current Staff'
+  url = '/staff'
+  weight = 7
 
 
 
