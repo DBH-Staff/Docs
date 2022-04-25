@@ -7,7 +7,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "Welcome to Staff Docs!"
-  images = ['/dbh.png']
+  images = ['/data/dbh.png']
 
 [menu]
 [[menu.main]]
@@ -27,7 +27,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/support'
   weight = 4
 [[menu.main]]
-  name = 'Other Important stuff'
+  name = 'Other Important things you should know'
   url = '/other'
   weight = 5
 [[menu.main]]
