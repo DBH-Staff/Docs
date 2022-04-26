@@ -29,9 +29,9 @@ To get started as a staff you've ofcourse filled out a application fourm and got
 → Get notified with the latest and greatest staff news from discord. it's pretty obvious to be honest.
 
 #### [Staff Timeline](/time/index.md)
-→ a full noted time of who got promoted, who became staff, who got demoted stored in this page
+→ A full noted time of who got promoted, who became staff, who got demoted stored in this page
 
 #### [Current Staff](/staff/index.md)
-→ a full on about me of all the staffs we currently have available.
+→ A full on about me of all the staffs we currently have available.
 
 ##### Well that's it. You should read all of these catogorys and practice them to become pro discord staff. Have a good day/night. Thanks for reading.
