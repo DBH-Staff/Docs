@@ -34,4 +34,4 @@ To get started as a staff you've ofcourse filled out a application fourm and got
 #### [Current Staff](/staff)
 → A full on about me of all the staffs we currently have available.
 
-##### Well that's it. You should read all of these catogorys and practice them to become pro discord staff. Have a good day/night. Thanks for reading.
+**Well that's it. You should read all of these catogorys and practice them to become good discord staff. Have a good day/night. Thanks for reading.**
