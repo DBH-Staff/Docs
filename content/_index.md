@@ -12,26 +12,26 @@ To get started as a staff you've ofcourse filled out a application fourm and got
 
 → Staff rules are basically rules for staff. There are few guidelines you should follow to be a good staff.
 
-#### [Ticketing](/ticket/index.md)
+#### [Ticketing](/ticket)
 
 → In this catagory I will teach you the best way you should help someone in tickets. Which will allow you to be better helper and even gain knowledge that you will need in the future.
 
-#### [Support](/support/index.md)
+#### [Support](/support)
 → In this catogory there will be multiple ways you can help others in support channels.
 
-#### [Punishments](/punish/index.md)
+#### [Punishments](/punish)
 → You've helped as a helper. But what about people who like to break the rules??? This catogory will tell you who should get what Punishment and when?
 
-#### [Other](/other/index.md)
+#### [Other](/other)
 → In here there will be some extra stuff you should know about as a staff
 
-#### [Staff News](/news/index.md)
+#### [Staff News](/news)
 → Get notified with the latest and greatest staff news from discord. it's pretty obvious to be honest.
 
-#### [Staff Timeline](/time/index.md)
+#### [Staff Timeline](/time)
 → A full noted time of who got promoted, who became staff, who got demoted stored in this page
 
-#### [Current Staff](/staff/index.md)
+#### [Current Staff](/staff)
 → A full on about me of all the staffs we currently have available.
 
 ##### Well that's it. You should read all of these catogorys and practice them to become pro discord staff. Have a good day/night. Thanks for reading.
