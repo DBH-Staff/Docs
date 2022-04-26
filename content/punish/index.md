@@ -7,7 +7,11 @@
 Image : ![Spam Image](https://media.discordapp.net/attachments/949604552779390976/968421610325426216/Screenshot_20220426-132140_Discord.png)
 
 → if you found someone spamming commands in 🤷╏spam  they should be first verbally warned and then muted depending on how much they spammed.
-→ if they spammed around 6 to 10 commands it's a 1 hour mute
+
+→ if they spammed around 6 to 10 commands it's a 1 hour mute.
+
+→ if someone also spammed/used commands in any of the booster/general lounges they should be muted from 15 mins up to 45 minutes.
+
 
 #### 2. NSFW
 
