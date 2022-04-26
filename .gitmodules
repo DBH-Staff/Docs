@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:DBH-Staff/dbh-staff.github.io.git
+	branch = main
