@@ -8,7 +8,7 @@ This a guide book for New and Old staff to perfect their moderation!
 To get started as a staff you've ofcourse filled out a application fourm and got accepted right? Now it's your job to perfect that skills that you have. So let's not wait and Get Started as a staff in DBH
 
 ## Information about each catogory that this Docs contain.
-#### [Staff Rules](/rules/index)
+#### [Staff Rules](/rules)
 
 → Staff rules are basically rules for staff. There are few guidelines you should follow to be a good staff.
 
