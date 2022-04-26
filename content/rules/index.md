@@ -5,7 +5,7 @@ Here are some rules that you are supposed to follow ↓
 
  𝟭. Respect. Shouldn't be to hard to follow. Respect everyone equally.
 
- 2.Follow [📜╏rules](https://discord.com/channels/639477525927690240/898041835002400768/898233552334897204) as well as these. You are still a member inside this community so you are not immune.
+ **2**.Follow [📜╏rules](https://discord.com/channels/639477525927690240/898041835002400768/898233552334897204) as well as these. You are still a member inside this community so you are not immune.
 
  3. Don't be bias towards people. Falls under respect at the end of the day.
 
