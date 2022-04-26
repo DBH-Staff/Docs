@@ -5,3 +5,19 @@
 → according to the topic of the 🤷╏spam  channel, spamming commands and mentions aren't allowed
 
 Image : ![Spam Image](https://media.discordapp.net/attachments/949604552779390976/968421610325426216/Screenshot_20220426-132140_Discord.png)
+
+→ if you found someone spamming commands in 🤷╏spam  they should be first verbally warned and then muted depending on how much they spammed.
+→ if they spammed around 6 to 10 commands it's a 1 hour mute
+
+#### 2. NSFW
+
+→ according to Rules, NSFW was now banned. A NSFW word can lead to **3h** of mute time.
+
+#### 3. Advertising of any sort
+→ advertising discord servers are agaisnt the rules. Advertising will lead to a direct ban without any warnings, make sure to discuss with other staff before banning.
+
+#### 4. Using ' Gay ' as a insult
+→ using gay as a insult will lead to a mute of 1h
+
+#### 5. Breaking Rules
+→ if someone is breaking any rules, you should definitely take action on them. If you're unsure about how long they should be muted? Make sure to discuss with other staff
