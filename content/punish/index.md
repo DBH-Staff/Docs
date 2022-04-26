@@ -25,3 +25,15 @@ Image : ![Spam Image](https://media.discordapp.net/attachments/94960455277939097
 
 #### 5. Breaking Rules
 → if someone is breaking any rules, you should definitely take action on them. If you're unsure about how long they should be muted? Make sure to discuss with other staff
+
+#### Common Punishments
+
+→ **Using Commands in general/spamming commands** → 15 minutes to 1 hour of mute time
+
+→ **NSFW** → 1 hour to 3 hours of mute
+
+→ ** Gay as Insult** → 1 hour to 3 hours of mute
+
+→ ** Breaking Rules** → 10 minutes to 6 hours of mute time.
+
+#### More then 5 mutes will lead to a temp-ban
