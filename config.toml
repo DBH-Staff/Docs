@@ -27,7 +27,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/support'
   weight = 4
 [[menu.main]]
-  name = 'punishments'
+  name = 'Punishments'
   url = '/punish'
   weight = 5
 [[menu.main]]
